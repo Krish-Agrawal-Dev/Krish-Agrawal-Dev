@@ -21,7 +21,7 @@
 
 ## Connect With Me
 
-* LinkedIn: *Coming soon*
+- LinkedIn: https://www.linkedin.com/in/krish-agrawal-dev
 
 
 
