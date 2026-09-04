@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Krish 👋
 
-<!--
-**Krish-Agrawal-Dev/Krish-Agrawal-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student in Artificial Intelligence at NIT Jalandhar
 
-Here are some ideas to get you started:
+💻 Currently learning C++ and Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building my problem-solving skills and working towards becoming a strong software engineer.
+
+## Currently Working On
+
+* 📚 Data Structures & Algorithms
+* 💻 C++
+* 🧩 LeetCode problem solving
+
+## Goals
+
+* Build strong foundations in DSA and problem solving
+* Build meaningful projects
+* Explore Artificial Intelligence and Machine Learning
+* Prepare for software engineering internships
+
+## Connect With Me
+
+* LinkedIn: *Coming soon*
+
+
+
