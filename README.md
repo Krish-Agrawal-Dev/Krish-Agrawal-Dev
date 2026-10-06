@@ -1,27 +1,32 @@
 # Hi, I'm Krish 👋
 
-🎓 B.Tech student in Artificial Intelligence at NIT Jalandhar
+🎓 B.Tech Artificial Intelligence student at NIT Jalandhar
 
-💻 Currently learning C++ and Data Structures & Algorithms
+💻 Building my foundation in C++, Data Structures & Algorithms, and Object-Oriented Programming.
 
-🚀 Building my problem-solving skills and working towards becoming a strong software engineer.
+🚀 Working toward becoming a strong software engineer and preparing for future software engineering internships.
 
-## Currently Working On
+## Currently Learning
 
-* 📚 Data Structures & Algorithms
-* 💻 C++
-* 🧩 LeetCode problem solving
+- C++
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Git & GitHub
+- Problem solving through LeetCode
+
+## What I'm Building
+
+- [DSA Practice](https://github.com/Krish-Agrawal-Dev/DSA-Practice) — topic-organized C++ DSA solutions and revision notes
+- [OOP-CPP-Practice](https://github.com/Krish-Agrawal-Dev/OOP-CPP-Practice) — hands-on C++ OOP exercises and mini-projects
 
 ## Goals
 
-* Build strong foundations in DSA and problem solving
-* Build meaningful projects
-* Explore Artificial Intelligence and Machine Learning
-* Prepare for software engineering internships
+- Build strong programming and DSA fundamentals
+- Become comfortable with C++ and software-engineering practices
+- Build meaningful projects that solve real problems
+- Explore AI/ML after strengthening core software foundations
+- Prepare for software engineering internships
 
-## Connect With Me
+## Connect
 
 - LinkedIn: https://www.linkedin.com/in/krish-agrawal-dev
-
-
-
